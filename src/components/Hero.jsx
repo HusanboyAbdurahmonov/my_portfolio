@@ -78,7 +78,7 @@ const Hero = () => {
                 <span className="text-accent-green">➜</span> 
                 <span>skills</span>
               </p>
-              <p className="text-accent-cyan pl-6">["React", "Tailwind", "JS", "Linux"]</p>
+              <p className="text-accent-cyan pl-6">["React", "Tailwind", "JS", "Linux", "Python"]</p>
               <p className="text-accent-purple flex gap-2">
                 <span className="text-accent-green">➜</span> 
                 <span>status</span>
