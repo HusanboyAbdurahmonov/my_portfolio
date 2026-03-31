@@ -23,7 +23,7 @@ const Hero = () => {
           </div>
           
           <h1 className="text-5xl md:text-7xl font-extrabold leading-tight mb-6">
-            Salom, men <br />
+            Assalomu alaykum! men <br />
             <span className="text-gradient">Husanboy</span>
           </h1>
           
@@ -73,7 +73,7 @@ const Hero = () => {
                 <span className="text-accent-green">➜</span> 
                 <span>whoami</span>
               </p>
-              <p className="text-white pl-6">Husanboy, Frontend Muhandisi</p>
+              <p className="text-white pl-6">Husanboy, Solution ENGINEER</p>
               <p className="text-accent-purple flex gap-2">
                 <span className="text-accent-green">➜</span> 
                 <span>skills</span>
