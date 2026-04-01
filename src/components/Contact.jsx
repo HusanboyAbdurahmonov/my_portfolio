@@ -72,7 +72,7 @@ const sendEmail = (e) => {
 
             {/* Telegram */}
             <a 
-              href="https://t.me/vhusan" 
+              href="https://t.me/vxusan" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="flex items-center gap-5 p-6 rounded-2xl bg-white/5 border border-white/10 hover:bg-white/10 transition-all group w-full"
@@ -82,7 +82,7 @@ const sendEmail = (e) => {
               </div>
               <div>
                 <p className="text-xs text-gray-500 uppercase tracking-widest mb-1">Telegram</p>
-                <p className="text-white font-medium">@vhusan</p>
+                <p className="text-white font-medium">@vxusan</p>
               </div>
             </a>
           </div>
